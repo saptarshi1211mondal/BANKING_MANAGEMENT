@@ -123,11 +123,7 @@ functionalities. If they don’t match or entered account number doesn't exist t
                     - Takes back to customer login screen
 ```
 
-## Input and Output of program
-We are giving a link below that redirects to the YouTube page playing our video which demonstrates the input and output of the program.
-Execution video Link: [Youtube video](https://www.youtube.com/watch?v=ZyakexnOaKA)
+
 
 ## Contributors
-1. 19BCE237 - Sakshi Sanghavi
-2. 19BCE238 - Harshil Sanghvi
-3. 19BCE245 - Aayush Shah
+1. SAPTARSHI MONDAL
